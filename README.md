@@ -1,3 +1,3 @@
 # Unit_12_HW
 
-Check out finished codein "Starter Code" 
+Check out finished code in "Starter Code" 
